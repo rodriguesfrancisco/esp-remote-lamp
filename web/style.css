@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+}
+
+.lightStatus {
+    margin-top: 20%;
+    color: black;
+}
+
+.lightButton, .logoutButton {
+    font-size: 1.5em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+}
+
+.lightButton {
+    background-color: #23967F !important;    
+}
+
+.light-on {    
+    background-color: #E84855 !important;    
+}
